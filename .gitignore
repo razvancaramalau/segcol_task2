@@ -1,0 +1,7 @@
+Dexined_SegCol
+results
+runs
+*.png
+*.pth
+*.tar
+*.pyc
